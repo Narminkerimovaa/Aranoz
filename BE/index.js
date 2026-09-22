@@ -9,7 +9,7 @@ app.use(cors());
 
 mongoose
   .connect(
-    "mongodb+srv://narmingkbf206:narmin28311007_@cluster0.etsr5ne.mongodb.net/"
+    "mongodb+srv://narmingkbf206:narmin242004_@cluster0.etsr5ne.mongodb.net/"
   )
   .then(() => console.log("Connected!"))
   .catch(() => console.log("NOT Connected!"));
